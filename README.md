@@ -6,9 +6,10 @@
 
 - 👋 Hi, I’m @hanokhaloni
 - 👀 I’m interested in anything software related, especially distributed near-realtime systems. In my spare time I do game jams!
-- 🌱 I’m currently learning Unity and ReactJS.
+- 🌱 I’m currently re-learning project management, and clean code.
+- 🔥 Too busy putting down fires at work right now...
 - 💞️ I’m looking to collaborate on computer games, rpg cards and interesting web projects.
-- 📫 How to reach me 
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanokhaloni" alt="hanokhaloni" /></a> </p>
 
